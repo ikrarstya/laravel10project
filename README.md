@@ -13,7 +13,7 @@
    - Dani Muntaqa
    - Farah Nafilaturrosyidah
    - RR Mutiara Dwi Febriani
-   - Ika Damayanti
+   - Ika Rizki Damayanti
    - Dan Lain-lain
      
 ## About Laravel
